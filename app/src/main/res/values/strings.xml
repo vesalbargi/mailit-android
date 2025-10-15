@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Mailit</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register Now!</string>
+    <string name="compose">Compose</string>
+    <string name="send">Send</string>
+    <string name="email_to">To</string>
+    <string name="subject">Subject</string>
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent</string>
+    <string name="drafts">Drafts</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="detail">Detail</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_confirmation_password">Confirmation Password</string>
+    <string name="hint_profile_picture">Profile Picture URL</string>
+    <string name="hint_search">Search</string>
+    <string name="hint_compose">Compose Email</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="appId">gOWcFk42m8EcIzmzSE5dwCj66PqUFmw8j6vwWmaQ</string>
+    <string name="apiKey">x3dbsy3m1AAa1ZMkDLRhLItT8tho8o96AHhPaCtY</string>
+    <string name="hostUrl">https://parseapi.back4app.com</string>
+
+    <string name="unsaved_changes">Unsaved changes!</string>
+    <string name="discard_or_draft">Do you want to save the changes to draft?</string>
+    <string name="invalid_input_error">Invalid or incomplete input!</string>
+    <string name="passwords_not_match">Passwords do not match!</string>
+    <string name="invalid_email">Email is not valid!</string>
+    <string name="invalid_URL">URL is not valid!</string>
+    <string name="network_connection_error">Cannot access internet!</string>
+    <string name="network_general_error">Failed to finish server operation successfully!</string>
+    <string name="network_json_error">Failed to interpret the data to/from server!</string>
+    <string name="db_general_error">Failed to finish database operation successfully!</string>
+    <string name="user_signup_error">Failed to sign up the new user!</string>
+    <string name="user_signin_error">Failed to sign in the user!</string>
+    <string name="error_invalid_login">Invalid username or password!</string>
+    <string name="email_get_all_sent_error">Failed to load the list of sent emails!</string>
+    <string name="email_get_all_inbox_error">Failed to load the list of inbox emails!</string>
+    <string name="email_get_all_draft_error">Failed to load the list of draft emails!</string>
+    <string name="email_get_all_search_error">Failed to load the list of search!</string>
+    <string name="email_insert_error">Failed to save the new email!</string>
+    <string name="email_update_error">Failed to update the email info!</string>
+    <string name="email_insert_success">Added new email successfully!</string>
+    <string name="email_delete_error">Failed to remove the email!</string>
+    <string name="email_update_success">Updated email successfully!</string>
+    <string name="email_delete_success">Removed email successfully!</string>
+    <string name="draft_insert_success">Saved as draft successfully!</string>
+    <string name="draft_delete_success">Removed draft successfully!</string>
+    <string name="email_get_all_error">Failed to load the list of emails!</string>
+</resources>
